@@ -1,0 +1,4 @@
+# Ignorar ambiente virtual
+venv_calc_sub-rede/
+__pycache__/
+*.pyc
